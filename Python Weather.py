@@ -1,6 +1,6 @@
 import sys, requests, datetime, json
 import tkinter as tk
-from threading import Thread, RLock
+from threading import Thread
 from tkinter import ttk
 
 
